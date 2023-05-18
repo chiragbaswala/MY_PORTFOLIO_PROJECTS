@@ -8,5 +8,4 @@ This is the first Tableau project I did for my PORTFOLIO, where I build dashboar
 * A portion of Netflix_titles dataset was used while building the project.
 * This is how my dashboard looks like:
 
-![image]()
-
+![Netflix](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/69ee6465-e0dc-4ac9-8b5e-cd29d53e3da0)
