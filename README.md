@@ -8,7 +8,7 @@ This is the first Tableau project I did for my PORTFOLIO, where I build dashboar
 * Select the type and search for any title to get information about that title.
 * This is how my dashboard looks like:
 
-![Netflix](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/69ee6465-e0dc-4ac9-8b5e-cd29d53e3da0)
+![Netflix](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/02d8bda2-a7c1-4699-872b-6bad030f20ca)
 
 Do check it out!
 
@@ -21,7 +21,8 @@ This is another project I did for my PORTFOLIO, where I built dashboards using a
 * A portion of Cleaned dataset was used while building the project.
 * This is how my dashboards looks like:
 
-![Dashboard 1](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/3d8b959f-c951-473b-b160-0474bb440285)
-![Dashboard 2](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/3667b688-3a6d-46d7-914e-331d1fbc602a)
-![Dashboard 3](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/dffeab1c-0b8e-4798-95f5-8d1e02091bca)
+![Dashboard 1](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/5c12a949-ab97-402f-a134-44f083855d46)
+![Dashboard 2](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/66ddf632-4477-4cff-b359-c1b647172265)
+![Dashboard 3](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/f7a90b95-2d65-48fa-8ea9-120022cd3234)
+
 
