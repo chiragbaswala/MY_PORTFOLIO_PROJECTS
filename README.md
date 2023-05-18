@@ -5,14 +5,15 @@ This is the first Tableau project I did for my PORTFOLIO, where I build dashboar
 
 * Data was taken from the netflix tittles dataset.
 * The Dataset : [netflix_titles.csv](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/files/11511512/netflix_titles.csv)
+* Select the type and search for any title to get information about that title.
 * This is how my dashboard looks like:
 
 ![Netflix](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/69ee6465-e0dc-4ac9-8b5e-cd29d53e3da0)
 
 Do check it out!
 
-#[Project 2: Survey on Masculinity in the USA](https://public.tableau.com/app/profile/chirag.baswala/viz/SurveyonMasculinityintheUSA/Dashboard1)
-This is another project I did for my portfolio, where I built dashboards using a masculinity dataset.
+# [Project 2: Survey on Masculinity in the USA](https://public.tableau.com/app/profile/chirag.baswala/viz/SurveyonMasculinityintheUSA/Dashboard1)
+This is another project I did for my PORTFOLIO, where I built dashboards using a masculinity dataset.
 
 * Data was taken from the masculinitysurvey dataset.
 * The Dataset : [Masculinity.survey.zip](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/files/11511549/Masculinity.survey.zip)
@@ -21,5 +22,6 @@ This is another project I did for my portfolio, where I built dashboards using a
 * This is how my dashboards looks like:
 
 ![Dashboard 1](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/3d8b959f-c951-473b-b160-0474bb440285)
-![Dashboard 2](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/b85ad2af-a724-4dca-b1fd-f2561a0cb0cc)
+![Dashboard 2](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/3667b688-3a6d-46d7-914e-331d1fbc602a)
 ![Dashboard 3](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/dffeab1c-0b8e-4798-95f5-8d1e02091bca)
+
