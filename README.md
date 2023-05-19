@@ -25,4 +25,15 @@ This is another project I did for my PORTFOLIO, where I built dashboards using a
 ![Dashboard 2](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/66ddf632-4477-4cff-b359-c1b647172265)
 ![Dashboard 3](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/f7a90b95-2d65-48fa-8ea9-120022cd3234)
 
+# [Project 3: Bellabeat Fitbit Fitness Tracker Data](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/blob/main/bellabeat-fitness-data-using-r.ipynb)
+This dataset contains personal fitness tracker from thirty fitbit users.
+You can download the required dataset from the following website-> [https://www.kaggle.com/datasets/arashnic/fitbit](https://www.kaggle.com/datasets/arashnic/fitbit)
 
+## [File 1: Bellabeat Fitbit Fitness Tracker Data using R Language](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/blob/main/bellabeat-fitness-data-using-r.ipynb)
+
+* This Project is based on Fitbit Fitness Tracker data.
+* In this project, I have used diferent packages such as **tidyverse, tidyr, ggplot2** for data cleeaning, exploration and visualization.
+
+![__results___17_1](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/16e6bbce-7b85-49ec-a399-533b56ecb299)
+![__results___21_1](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/820fbfc1-67a2-460e-8798-71e143e78bd2)
+![__results___23_1](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/f28723c6-413b-4500-8df8-add46a5ed684)
