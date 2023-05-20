@@ -29,10 +29,16 @@ This is another project I did for my PORTFOLIO, where I built dashboards using a
 This dataset contains personal fitness tracker from thirty fitbit users.
 You can download the required dataset from the following website-> [https://www.kaggle.com/datasets/arashnic/fitbit](https://www.kaggle.com/datasets/arashnic/fitbit)
 
-## [File 1: Bellabeat Fitbit Fitness Tracker Data using R Language](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/blob/main/bellabeat-fitness-data-using-r.ipynb)
+## [File 1: Bellabeat Fitness Data - Data Cleaning & Analysis by SQL Server](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/blob/main/Bellabeat%20Fitbit%20Fitness%20Tracker%20Data/Bellabeat%20Fitness%20Data%20Cleaning%20and%20Analysis.sql)
+
+* In this project, I have checked the data and merged some files using Ms Excel. 
+* Performed some basic operations and functions in SQL Server for cleaning and analyzing data. 
+
+## [File 2: Bellabeat Fitbit Fitness Tracker Data using R Language](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/blob/main/Bellabeat%20Fitbit%20Fitness%20Tracker%20Data/bellabeat-fitness-data-using-r.ipynb)
 
 * This Project is based on Fitbit Fitness Tracker data.
-* In this project, I have used diferent packages such as **tidyverse, tidyr, ggplot2** for data cleeaning, exploration and visualization.
+* In this project, I have used diferent packages such as **tidyverse, tidyr, ggplot2** for data cleaning, exploration and visualization.
+* Some of the visualizations from the project:
 
 ![__results___17_1](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/16e6bbce-7b85-49ec-a399-533b56ecb299)
 ![__results___21_1](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/820fbfc1-67a2-460e-8798-71e143e78bd2)
