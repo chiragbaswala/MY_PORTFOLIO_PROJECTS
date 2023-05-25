@@ -25,7 +25,7 @@ This is another project I did for my PORTFOLIO, where I built dashboards using a
 ![Dashboard 2](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/66ddf632-4477-4cff-b359-c1b647172265)
 ![Dashboard 3](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/f7a90b95-2d65-48fa-8ea9-120022cd3234)
 
-# [Project 3: Bellabeat Fitbit Fitness Tracker Data](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/blob/main/bellabeat-fitness-data-using-r.ipynb)
+# [Project 3: Bellabeat Fitbit Fitness Tracker Data](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/tree/main/Bellabeat%20Fitbit%20Fitness%20Tracker%20Data)
 This dataset contains personal fitness tracker from thirty fitbit users.
 You can download the required dataset from the following website-> [https://www.kaggle.com/datasets/arashnic/fitbit](https://www.kaggle.com/datasets/arashnic/fitbit)
 
