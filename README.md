@@ -51,4 +51,6 @@ This Project is done on Google Collab and is mainly based on Python. In this Pro
 * The project is mainly based on pandas(for data cleaning), numpy(for statistics), seaborn and matplotlib(for data visualization).
 * Some of the visualizations from the project:
 
-  
+![heatmap](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/8c9f3c6f-5cef-43eb-be07-351dc3eff25b)
+![line graph](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/457023cf-aa8e-4755-bd96-596f7d389b86)
+![scatter](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/14cfb81d-50b3-4fc2-baca-7ed5a842101a)
