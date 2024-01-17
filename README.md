@@ -45,7 +45,7 @@ You can download the required dataset from the following website-> [https://www.
 ![__results___23_1](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/assets/69474163/f28723c6-413b-4500-8df8-add46a5ed684)
 
 # [Project 4: Movie Correlation and Visualization](https://github.com/chiragbaswala/MY_PORTFOLIO_PROJECTS/blob/main/Movie_Correlation_and_Visualization_of_Data.ipynb)
-This Project is done on Google Collab and is mainly based on Python. In this Project, I’ve found some correlations between different fields of the given dataset and I've also done some visualizations highlighting the given data.
+This Project is done on Google Colab and is mainly based on Python. In this Project, I’ve found some correlations between different fields of the given dataset and I've also done some visualizations highlighting the given data.
 
 * This Project is based on Movie Industry.
 * The project is mainly based on pandas(for data cleaning), numpy(for statistics), seaborn and matplotlib(for data visualization).
